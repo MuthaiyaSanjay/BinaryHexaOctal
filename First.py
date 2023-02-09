@@ -1,0 +1,5 @@
+print("***** Enter any Number to Return a Binary,Hexa Decimal and Octal Value *****")
+a=int(input("Enter a Number"))
+print("The Given Number Binary Value is : ",bin(a))
+print("The Given Number Hexa Decimal Value is : ",hex(a))
+print("The Given Number Octal Value is : ",oct(a))
